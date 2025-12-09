@@ -9,9 +9,9 @@
 
 ### 🛠️ Technologies I use / study
 - Front-end: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
-- Back-end: Node.js, Express, .NET, C#
-- Database: MongoDB, SQL
-- Tools: Git, GitHub, Insomnia, VS Code
+- Back-end: Python, Node.js, Express, .NET, C#
+- Database: SQL
+- Tools: Git, GitHub, Insomnia
 
 ### 🎯 Career Objective
 I’m looking for my **first professional opportunity** in the software development field, where I can apply my knowledge and grow by facing real-world challenges.
