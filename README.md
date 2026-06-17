@@ -4,17 +4,28 @@
 🚀 I’m **eager to learn** new technologies and always looking to improve my technical and practical skills.
 
 ### 💻 Ongoing Projects
-- **EcoCicle** – A web application built with **.NET**, actively under development as an academic project.
-- **Album Social** – A personal project inspired by Letterboxd, using **React** for the front-end and **Node.js** for the back-end. Actively under development!
+- **EcoCicle** – A web application focused on sustainability and recycling awareness, developed with **.NET**.
+- **AvaliaCPS** – An academic management system for students and professors of CPS institutions, built with **.NET MVC**, **Bootstrap**, **SQLite** and **Entity Framework**.
+- **Album Social** – A social platform for music album reviews and discovery, inspired by Letterboxd. Built with **React** and **Node.js**. Actively under development.
+- **Terminal Train** – A terminal-based train management game developed in **Python**, created to study DSA concepts and software architecture. Actively under development.
 
-### 🛠️ Technologies I use / study
-- Front-end: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
-- Back-end: Python, Node.js, Express, .NET, C#
-- Database: SQL
-- Tools: Git, GitHub, Insomnia
+### 🛠️ Technologies & Tools
+
+**Languages**
+* Python, JavaScript, C, C#, SQL, Java
+
+**Frameworks & Libraries**
+* .NET, ASP.NET MVC, Entity Framework, React, Express, Bootstrap, Tailwind CSS
+
+**Databases**
+* SQLite, SQL Server, MySQL
+
+**Tools**
+* Git, GitHub, Insomnia, Visual Studio, VS Code
 
 ### 🎯 Career Objective
-I’m looking for my **first professional opportunity** in the software development field, where I can apply my knowledge and grow by facing real-world challenges.
+Seeking my first opportunity in software development, with a primary interest in back-end engineering, software architecture, and system design. I enjoy building applications, solving complex problems, and studying Data Structures & Algorithms (DSA). Through academic and personal projects, I aim to strengthen my technical foundation while gaining practical experience in real-world software development.
+
 
 ### 📫 Contact
 - LinkedIn: [linkedin.com/in/gustavo-dias-bricoli]([https://www.linkedin.com/in/gustavo-dias-bricoli-13365134a/])
