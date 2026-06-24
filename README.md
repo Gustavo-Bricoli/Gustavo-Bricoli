@@ -4,10 +4,10 @@
 🚀 I’m **eager to learn** new technologies and always looking to improve my technical and practical skills.
 
 ### 💻 Ongoing Projects
-- **EcoCicle** – A web application focused on sustainability and recycling awareness, developed with **.NET**.
-- **AvaliaCPS** – An academic management system for students and professors of CPS institutions, built with **.NET MVC**, **Bootstrap**, **SQLite** and **Entity Framework**.
 - **Album Social** – A social platform for music album reviews and discovery, inspired by Letterboxd. Built with **React** and **Node.js**. Actively under development.
+- **AvaliaCPS** – An academic management system for students and professors of CPS institutions, built with **.NET MVC**, **Bootstrap**, **SQLite** and **Entity Framework**.
 - **Terminal Train** – A terminal-based train management game developed in **Python**, created to study DSA concepts and software architecture. Actively under development.
+- **EcoCicle** – A web application focused on sustainability and recycling awareness, developed with **.NET**.
 
 ### 🛠️ Technologies & Tools
 
